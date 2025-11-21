@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in Caracas, Venezuela
 * 🖥️  See my portfolio at [PortfolioKthA](http://karanguren.github.io/portfolio/)
 * ✉️  You can contact me at [karanguren\_12@outlook.com](mailto:karanguren_12@outlook.com)
-* 🚀  I'm currently working on [GymApp 💪](http://#)
+* 🚀  I'm currently working on [GymApp 💪](https://101fitgym.com/)
 * 👥  I'm looking to collaborate on interesting projects 😊
 
 <p align="left">
